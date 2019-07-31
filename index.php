@@ -27,6 +27,6 @@ $app->on('after', function () {
       break;
   }
 });
-// Test
+
 $app->run();
 ?>
